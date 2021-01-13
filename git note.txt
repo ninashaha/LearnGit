@@ -1,0 +1,14 @@
+git init
+untuk menginisiasi direktori sekaarang untuk di inisiasi oleh git
+git add 
+menambbahkan file
+git status
+cek status file
+git commit -m "first commit"
+commit adalah perintah -m adalah argumen
+masing-masing perintah terminal punya argumen
+git --help
+untuk tahu argumen2 yg bs dimasukin atau bisa juga
+git commit --help
+kalo sudah selesai bs pencet q mntp
+test add edit remove line
